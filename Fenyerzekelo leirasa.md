@@ -5,4 +5,4 @@ Ez egy egyszerű fényérzékelőt felhasználó Arduino projekt mely egy bizony
 
 # Egy kép az árramkörről:
 
-https://imgur.com/Q5RR8uL
+https://i.imgur.com/Q5RR8uL.jpg
