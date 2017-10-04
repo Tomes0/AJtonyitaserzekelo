@@ -1,2 +1,2 @@
 # Ajtonyitaserzekelo
-Ez egy egyszeru es konnyen hasznalhato Arduino projekt mely egy ajto kinyillasat jelzi egy hangal.
+Ez egy egyszerű és könnyen használható Arduino projekt mely egy ajtó kinyilását jelzi egy hanggal.
